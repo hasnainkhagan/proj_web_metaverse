@@ -44,3 +44,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+<br/>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=131313&background=A6E000&center=true&vCenter=true&random=false&width=300&height=100&lines=Thank+You+._." alt="Typing SVG" /></h1>
+<hr/>
