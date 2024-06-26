@@ -1,11 +1,11 @@
-<h1>METAVERSE [🌐WEBSITE]</h1>
+# METAVERSE [🌐WEBSITE ]
+![Chat Application](https://cdn.dribbble.com/users/5252833/screenshots/17625867/media/6f3168e7ef3645dfa6a09dd77015feae.png)
 <br>
-<h3>Metaverse Website built by using NEXT.js 13 bootstrapped with Tailwind CSS & Framer Motion.</h3>
-<h4>Design [METAVERSUS] Inspiration from <a href="https://www.oneweekwonders.com/">One Week Wonders</a>.</h4>
-<img src="https://cdn.dribbble.com/users/5252833/screenshots/17625867/media/63dd00d9580d58ac9b3430db5fdcc77d.png">
-<h5>I've made a few changes to the design while coding it !</h5>
-<h4>Let's Grow Together, Fork it, Star it, Learn it !</h4>
-<h2>Learn how to code !</h2>
+<h3 align="center">Metaverse Website built using NEXT.js 13, bootstrapped with Tailwind CSS and Framer Motion.</h3>
+<h4 align="center">Design [METAVERSUS] Inspiration from <a href="https://www.oneweekwonders.com/">One Week Wonders  <img src="https://assets.website-files.com/60accb150d1179495f784edf/61f2726e587e202ce8c9313c_favicon-oww-1.png" align="center"></a></h4>
+<h5 align="center">💻 I've made a few changes to the design while coding it !</h5>
+<h4 align="center">🌱 Let's grow together! 🍴 Fork it, ⭐ Star it, 📚 Learn it !</h4>
+<h2 align="center">Learn how to code !</h2>
 <h1>How to run the Code ?</h1>
 
 ---
