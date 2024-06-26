@@ -6,7 +6,7 @@
 <h5 align="center">💻 I've made a few changes to the design while coding it !</h5>
 <h4 align="center">🌱 Let's grow together! 🍴 Fork it, ⭐ Star it, 📚 Learn it !</h4>
 <h2 align="center">Learn how to code !</h2>
-
+<hr>
 <h4 align="center" text="bold">Tech Stack</h4>
 <a href="https://github.com/hasnainkhagan/" align="center">
   
