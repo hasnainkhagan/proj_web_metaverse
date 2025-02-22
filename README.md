@@ -1,5 +1,5 @@
 # METAVERSE [🌐WEBSITE ]
-![Design](https://cdn.dribbble.com/users/5252833/screenshots/17625867/media/6f3168e7ef3645dfa6a09dd77015feae.png)
+![Design](https://hasnainkhagan.vercel.app/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fg2tqi0p3%2Fproduction%2F505aa58890ec388f8c55aa930d129db025e394ae-1328x1008.png&w=1920&q=75)
 <br>
 <h3 align="center">Metaverse Website built using NEXT.js 13, bootstrapped with Tailwind CSS and Framer Motion.</h3>
 <h4 align="center">Design [METAVERSUS] Inspiration from <a href="https://www.oneweekwonders.com/">One Week Wonders  <img src="https://assets.website-files.com/60accb150d1179495f784edf/61f2726e587e202ce8c9313c_favicon-oww-1.png" align="center"></a></h4>
